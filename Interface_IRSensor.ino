@@ -1,3 +1,8 @@
+/**
+ * Authors: Naveen Lalwani, Karan Rawlani
+ * The following simple piece of code helps one get the Hex value 
+ * associated with the button pressed on the IR Remote.
+ */
 #include <IRremote.h>
 
 int RECV_PIN = 11;
